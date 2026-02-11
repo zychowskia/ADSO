@@ -11,8 +11,8 @@ namespace GeneticMultistepSG
 {
     public class Program
     {
-        // Global Random instance for reproducibility (Seed 7 as per original)
-        public static Random rand = new Random(7);
+        // Global Random instance for reproducibilityse, use seeds: 1-30
+        public static Random rand = new Random(1);
 
         // Global Game Definition accessible by static contexts
         public static Game gameDefinition;

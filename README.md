@@ -68,3 +68,10 @@ The code is organized to separate the new ADSO implementation from the legacy ev
     Build the solution in **Release mode** for optimal performance and run the executable.
 
 ***Note:*** The contents of the `EASG` folder are provided for archival purposes and reproducibility of the baseline comparisons mentioned in the paper.
+
+## Cite as
+
+```
+A. Żychowski, A. Gupta, Y-S. Ong, J. Mańdziuk. Scalability via Sparsity in Stackelberg Security Games: An Augmented Decision Space Approach,
+ACM Transactions on Evolutionary Learning and Optimization. 2026.
+```
